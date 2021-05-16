@@ -1,3 +1,3 @@
-# OgrenciYonetimSistemi
- Bu projede C# dili kullanılarak öğrenci yönetim sistemi kodlanmıştır.
- Proje açılırken giriş için kullanıcı ismi 'admin' şifre '12345' olmalıdır.
+# Student Management System
+ In this project, the student management system was coded using C # language.
+ When opening the project, the username should be ### 'admin' and the password should be ### '12345' for login.
